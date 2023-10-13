@@ -2,11 +2,11 @@
 
 A new and basic Flutter app to implement designing, routing and calculating.
 
-# Screenshots
+## Screenshots
 
-Timer
+#Timer
 <img src = "https://github.com/KevalB/Timer-and-Countdown-App/blob/main/39_Timer.png" width="400" height="700">
 
-Countdown
+#Countdown
 <img src = "https://github.com/KevalB/Timer-and-Countdown-App/blob/main/39_Countdown.png" width="400" height="700">
 
