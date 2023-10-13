@@ -1,6 +1,6 @@
 # Timer and CountDown App
 
-A new and basic Flutter app to implement designing, routing and calculating.
+A new and basic Flutter app to implement designing, routing and time.
 
 ## Screenshots
 
